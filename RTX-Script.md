@@ -28,7 +28,7 @@ Experience Roblox like never before with this **RTX-style shader** built for stu
 
 ---
 
-# Script
+## Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CludeHub/RTX-Night-Day/refs/heads/main/RTX-Like-Never-Before.lua"))()
 ```
