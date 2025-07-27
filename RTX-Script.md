@@ -12,7 +12,8 @@ Experience Roblox like never before with this **RTX-style shader** built for stu
 - 📱 Mobile & PC compatible
 
 ## 🎥 Showcase
-![Preview](https://your-image-or-gif-link-here.com)  
+![Preview](https://github.com/CludeHub/RTX-Night-Day/blob/50b8829f8f48ad7bbdb88f07d81c021543fdfa24/NightRTX1.png)
+![Preview2](https://github.com/CludeHub/RTX-Night-Day/blob/50b8829f8f48ad7bbdb88f07d81c021543fdfa24/NightRTX2.png)
 *Visual demo of the day/night RTX shader in action.*
 
 > 💡 You can replace the link above with a real image/GIF or YouTube video embed.
