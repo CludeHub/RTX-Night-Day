@@ -28,5 +28,10 @@ Experience Roblox like never before with this **RTX-style shader** built for stu
 
 ---
 
+# Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CludeHub/RTX-Night-Day/refs/heads/main/RTX-Like-Never-Before.lua"))()
+```
+
 💡 *Make your game feel next-gen.*  
 🔥 **RTX Shader - Night & Day** is the visual upgrade your world deserves.
