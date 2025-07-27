@@ -1,4 +1,4 @@
-# 🌗 RTX Shader - Night & Day
+# 🌗 RTX Shader 2025
 **Best RTX Shader for Roblox - Ultra Realism**
 
 Experience Roblox like never before with this **RTX-style shader** built for stunning **night and day visuals**. Designed for both **mobile and PC**, this shader transforms your game with cinematic lighting, dynamic shadows, and smooth transitions from sunrise to nightfall.
@@ -35,3 +35,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CludeHub/RTX-Night-Da
 
 💡 *Make your game feel next-gen.*  
 🔥 **RTX Shader - Night & Day** is the visual upgrade your world deserves.
+
+# Credits
+*Paul as CludeHub*
